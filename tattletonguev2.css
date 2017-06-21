@@ -1,0 +1,144 @@
+/* 768px and below */
+/* ##### TATTLE CUSTOM STYLE ##### */
+html {
+  background-color: #ebebeb;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.tattle-category {
+  background-color: #fff;
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+}
+
+.tattle-cat-title {
+  display: block;
+}
+
+.tattle-container {
+}
+
+.tattle-content {
+}
+
+.tattle-foot {
+  background-color: #0d1b1e;
+  color: #fff;
+}
+
+.tattle-footer {
+}
+
+.tattle-head {
+  background-color: #d7263d;
+}
+
+.tattle-header {
+  color: #fff;
+}
+
+.tattle-mobile-cat, .tattle-mobile-nav {
+  background: none;
+  border: none;
+  font-size: 2em;
+}
+
+.tattle-navigation {
+  background-color: #f74565;
+  color: #fff;
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+}
+
+.tattle-search {
+  font-family: 'Pacifico', cursive;
+  margin: 1em 0 1em 0;
+}
+
+.hidden-it {
+  display: none;
+}
+
+
+/* ##### BLOGGER CUSTOM STYLE ##### */
+
+.entry-title a {
+  color: #f74565;
+}
+
+.entry-title a:hover {
+  color: #d7263d;
+}
+
+.gsc-input {
+  border-radius: 0.3em;
+}
+
+.gsc-search-button {
+  background: none;
+  border: none;
+  color: #fff;
+  font-family: 'Pacifico';
+  font-size: 1.3em;
+}
+
+.mobile-index-contents {
+	background: #fff;
+	padding: 0.3em;
+	margin-bottom: 0.3em;
+}
+
+.title {
+  color: #fff;
+  font-family: 'Rochester', cursive;
+  font-size: 2.2em;
+  text-align: center;
+}
+
+.post-body {
+  background-color: #fff;
+  font-family: 'Amaranth';
+  font-size: 0.8em;
+  margin: 0;
+  padding: 1em;
+}
+
+.post-footer {
+  background-color: #f74565;
+}
+
+.post-outer {
+  margin: 2em 0 2em 0;
+  padding: 0;
+}
+
+.post-title, .mobile-index-title {
+  color: #f74565;
+  font-family: 'Pacifico', cursive;
+  margin: 0 0 1em 0;
+}
+
+/* ##### BOOTSTRAP CUSTOM STYLE ##### */
+[class*="col-xs-"]{
+  padding: 0;
+}
+
+.container-fluid {
+  background-color: #ebebeb;
+}
+.container-fluid, .row {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+@media only screen (min-width: 768px){
+  html {
+    background-color: #ebebeb;
+  }
+}
